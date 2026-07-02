@@ -1,0 +1,3 @@
+INFO     qa:login_page.py:15 Navigate to login page: https://www.saucedemo.com
+INFO     qa:login_page.py:19 Enter credentials and submit login for user: standard_user
+INFO     qa:conftest.py:121 Saved Playwright trace to E:\SoftwareTesting\MCP Playwright project\test-results\traces\master\test_login_success[firefox].zip

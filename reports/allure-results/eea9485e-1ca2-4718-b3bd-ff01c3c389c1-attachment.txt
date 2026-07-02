@@ -1,0 +1,9 @@
+INFO     qa:login_page.py:15 Navigate to login page: https://www.saucedemo.com
+INFO     qa:login_page.py:19 Enter credentials and submit login for user: standard_user
+INFO     qa:inventory_page.py:15 Waiting for inventory page to load
+INFO     qa:inventory_page.py:19 Adding product to cart: sauce-labs-backpack
+INFO     qa:inventory_page.py:19 Adding product to cart: sauce-labs-bike-light
+INFO     qa:inventory_page.py:34 Navigating to cart page
+INFO     qa:cart_page.py:15 Waiting for cart page to load
+INFO     qa:cart_page.py:19 Collecting cart items
+INFO     qa:conftest.py:121 Saved Playwright trace to E:\SoftwareTesting\MCP Playwright project\test-results\traces\master\test_cart_review[webkit].zip

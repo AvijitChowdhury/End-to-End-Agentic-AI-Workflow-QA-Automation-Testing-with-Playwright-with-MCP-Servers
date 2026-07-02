@@ -1,0 +1,14 @@
+INFO     qa:login_page.py:15 Navigate to login page: https://www.saucedemo.com
+INFO     qa:login_page.py:19 Enter credentials and submit login for user: standard_user
+INFO     qa:inventory_page.py:15 Waiting for inventory page to load
+INFO     qa:inventory_page.py:19 Adding product to cart: sauce-labs-backpack
+INFO     qa:inventory_page.py:34 Navigating to cart page
+INFO     qa:cart_page.py:15 Waiting for cart page to load
+INFO     qa:cart_page.py:31 Proceeding to checkout from cart
+INFO     qa:checkout_page.py:18 Waiting for checkout information page to load
+INFO     qa:checkout_page.py:22 Filling checkout information: John Smith 99999
+INFO     qa:checkout_overview_page.py:19 Waiting for checkout overview page to load
+INFO     qa:checkout_overview_page.py:42 Completing order on checkout overview
+INFO     qa:checkout_complete_page.py:14 Waiting for checkout completion page
+INFO     qa:checkout_complete_page.py:18 Navigating back home after order completion
+INFO     qa:conftest.py:121 Saved Playwright trace to E:\SoftwareTesting\MCP Playwright project\test-results\traces\master\test_finish_order_clears_cart[chromium0].zip

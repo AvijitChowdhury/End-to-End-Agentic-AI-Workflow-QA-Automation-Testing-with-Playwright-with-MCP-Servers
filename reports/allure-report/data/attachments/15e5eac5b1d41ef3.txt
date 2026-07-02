@@ -1,0 +1,10 @@
+2026-07-03 03:32:48,226 [INFO] qa: Navigate to login page: https://www.saucedemo.com
+2026-07-03 03:32:49,762 [INFO] qa: Enter credentials and submit login for user: standard_user
+2026-07-03 03:32:50,076 [INFO] qa: Waiting for inventory page to load
+2026-07-03 03:32:50,104 [INFO] qa: Adding product to cart: sauce-labs-backpack
+2026-07-03 03:32:50,254 [INFO] qa: Navigating to cart page
+2026-07-03 03:32:50,337 [INFO] qa: Waiting for cart page to load
+2026-07-03 03:32:50,370 [INFO] qa: Proceeding to checkout from cart
+2026-07-03 03:32:50,421 [INFO] qa: Waiting for checkout information page to load
+2026-07-03 03:32:50,435 [INFO] qa: Filling checkout information: !@#$ 123 abcd
+2026-07-03 03:32:50,979 [INFO] qa: Saved Playwright trace to E:\SoftwareTesting\MCP Playwright project\test-results\traces\master\test_invalid_input_shows_error[chromium0].zip

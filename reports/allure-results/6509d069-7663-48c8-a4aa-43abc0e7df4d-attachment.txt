@@ -1,0 +1,11 @@
+2026-07-03 03:34:01,145 [INFO] qa: Navigate to login page: https://www.saucedemo.com
+2026-07-03 03:34:01,916 [INFO] qa: Enter credentials and submit login for user: standard_user
+2026-07-03 03:34:02,200 [INFO] qa: Waiting for inventory page to load
+2026-07-03 03:34:02,225 [INFO] qa: Adding product to cart: sauce-labs-backpack
+2026-07-03 03:34:02,295 [INFO] qa: Navigating to cart page
+2026-07-03 03:34:02,360 [INFO] qa: Waiting for cart page to load
+2026-07-03 03:34:02,378 [INFO] qa: Proceeding to checkout from cart
+2026-07-03 03:34:02,442 [INFO] qa: Waiting for checkout information page to load
+2026-07-03 03:34:02,478 [INFO] qa: Submitting empty checkout form
+2026-07-03 03:34:02,586 [INFO] qa: Filling checkout information: Jane Doe 54321
+2026-07-03 03:34:03,068 [INFO] qa: Saved Playwright trace to E:\SoftwareTesting\MCP Playwright project\test-results\traces\master\test_checkout_information_validation[chromium1].zip

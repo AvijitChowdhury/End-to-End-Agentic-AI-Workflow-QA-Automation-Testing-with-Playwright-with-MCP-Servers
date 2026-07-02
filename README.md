@@ -320,6 +320,24 @@ Run with HTML report:
 pytest --html=reports/report.html --self-contained-html
 ```
 
+Run with Allure results:
+
+```bash
+pytest --alluredir=reports/allure-results
+```
+
+Generate the Allure HTML report:
+
+```bash
+allure generate reports/allure-results -o reports/allure-report --clean
+```
+
+Open the report at:
+
+```bash
+reports/allure-report/index.html
+```
+
 Run in Chromium only:
 
 ```bash
@@ -486,6 +504,8 @@ reports/
 - HTML Report
 - JUnit XML
 - Markdown Summary
+- Allure result files (`reports/allure-results/`)
+- Allure HTML report (`reports/allure-report/`)
 
 ```
 screenshots/

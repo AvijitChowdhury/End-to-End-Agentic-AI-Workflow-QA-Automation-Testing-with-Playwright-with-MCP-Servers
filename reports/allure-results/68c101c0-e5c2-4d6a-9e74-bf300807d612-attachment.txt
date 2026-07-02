@@ -1,0 +1,3 @@
+2026-07-03 03:33:22,079 [INFO] qa: Navigate to login page: https://www.saucedemo.com
+2026-07-03 03:33:23,069 [INFO] qa: Enter credentials and submit login for user: standard_user
+2026-07-03 03:33:23,826 [INFO] qa: Saved Playwright trace to E:\SoftwareTesting\MCP Playwright project\test-results\traces\master\test_login_success[firefox].zip

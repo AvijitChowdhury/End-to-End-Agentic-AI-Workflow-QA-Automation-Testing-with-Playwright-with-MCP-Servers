@@ -1,0 +1,11 @@
+INFO     qa:login_page.py:15 Navigate to login page: https://www.saucedemo.com
+INFO     qa:login_page.py:19 Enter credentials and submit login for user: standard_user
+INFO     qa:inventory_page.py:15 Waiting for inventory page to load
+INFO     qa:inventory_page.py:19 Adding product to cart: sauce-labs-backpack
+INFO     qa:inventory_page.py:34 Navigating to cart page
+INFO     qa:cart_page.py:15 Waiting for cart page to load
+INFO     qa:cart_page.py:31 Proceeding to checkout from cart
+INFO     qa:checkout_page.py:18 Waiting for checkout information page to load
+INFO     qa:checkout_page.py:29 Submitting empty checkout form
+INFO     qa:checkout_page.py:22 Filling checkout information: Jane Doe 54321
+INFO     qa:conftest.py:121 Saved Playwright trace to E:\SoftwareTesting\MCP Playwright project\test-results\traces\master\test_checkout_information_validation[chromium1].zip
